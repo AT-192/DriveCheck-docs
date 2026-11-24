@@ -1,2 +1,2 @@
-# gigpilot-docs
-Legal documentation for GigPilot
+# DriveCheck-docs
+Legal documentation for DriveCheck
